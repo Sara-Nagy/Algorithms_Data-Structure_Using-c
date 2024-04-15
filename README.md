@@ -1,4 +1,4 @@
-# Algorithms_Data-Structure_Using-c:
+# Algorithms_Data Structure_Using C:
 
 ## Algorithms
 
