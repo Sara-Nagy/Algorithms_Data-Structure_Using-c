@@ -7,7 +7,7 @@
 #### 1_Selection Sort 
 #### 2_Bubble Sort
 #### 3_Insertion Sort
-### #4_Merge Sort
+#### 4_Merge Sort
 
 ### Searching Algorithm:
 
